@@ -1,0 +1,11 @@
+requests
+pytest
+pylint
+flask
+pandas
+ipykernel
+altair
+python-dotenv
+redshift_connector
+openpyxl
+scipy

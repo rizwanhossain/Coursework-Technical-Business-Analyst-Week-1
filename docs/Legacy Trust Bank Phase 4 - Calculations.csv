@@ -1,0 +1,14 @@
+Opportunity ID,Calculation,Value,Units
+OP-001,Implementation Cost,85000,£
+OP-001,Annual Operational Time Saving,229.824,hours
+OP-001,Revenue Uplift/Leakage Prevention,5056.128,£
+OP-002,Implementation Cost,45000,£
+OP-002,Annual Operational Time Saving,1498.66,hours
+OP-002,Revenue Uplift/Leakage Prevention,34847.542,£
+OP-003,Implementation Cost,45000,£
+OP-003,Annual Operational Time Saving,3460.8,hours
+OP-003,Revenue Uplift/Leakage Prevention,76137.6,£
+,,,
+,,,
+Annual Benefit,Net Benefit,12-month ROI (%),Payback Period (Years)
+116041.27,-58958.73,-33.69070286,1.50808415

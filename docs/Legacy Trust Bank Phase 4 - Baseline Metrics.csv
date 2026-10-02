@@ -1,0 +1,13 @@
+Metric,Value,Units
+Status check,4.5,minutes
+Escalation,8.45,minutes
+Manual plan note,7.5,minutes
+Call attempt,10.96,minutes
+Email sent,5.5,minutes
+Spreadsheet reconcile,9,minutes
+Total Delinquent Accounts,3214,
+Straightforward-case volume,2727,
+Hours spent on manual work per workflow,0.6243333333,hours
+Missed follow-up rate,14,%
+Hours worked yearly per rep,2016,hours
+Average workflows per month,824,

@@ -1,0 +1,10 @@
+As-Is Reference,Pain-point,Evidence
+A,If account is not updated accurately then might be wrongly included/excluded from report.,"The current system treats payment promises the same as payment confirmations, which creates confusion."
+B,Account may not be updated accurately so could have incorrect status.,"The current system treats payment promises the same as payment confirmations, which creates confusion."
+C,Time-consuming and gives rise to human error,Every status update in the old system requires manual re-keying into the spreadsheet.
+D,"If the customer has already been called, then time is wasted, effort is duplicated, and occasionally contact rules are breached.",I cannot tell which customers have already been contacted this month without manually checking three different sheets
+E,Manually updating across multiple sources can create discrepancies and is time-consuming.,Every status update in the old system requires manual re-keying into the spreadsheet.
+F,Miss the flag and the account pops back up and gets a chasing call for money that's already promised.,"The current system treats payment promises the same as payment confirmations, which creates confusion."
+G,"If an agent forgets to follow up, then broken arrangements slip through the cracks.",We lose at least 20% of follow-ups because they fall between shifts and no one owns the handoff.
+H,Poor visibility of promise-to-pay fulfillment.,"The current system treats payment promises the same as payment confirmations, which creates confusion."
+I,There's no system prompt for checking arrangement fulfillment - agents must remember on their own.,I cannot tell which customers have already been contacted this month without manually checking three different sheets.

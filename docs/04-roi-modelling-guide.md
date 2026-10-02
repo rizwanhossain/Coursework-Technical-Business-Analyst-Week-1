@@ -1,60 +1,8 @@
-# ROI Modelling Guide
-
-This guide helps you turn Week 1 discovery into a value-ranked opportunity model.
-
-## Recommended workbook tabs
-
-1. Assumptions
-2. Baseline Metrics
-3. Opportunities
-4. Calculations
-5. ROI Summary
-6. Sensitivity Analysis
-
-## Core modelling rule
-
-Always separate:
-- observed data
-- assumptions
-- formulas
-- recommendation logic
-
-## Opportunity ideas you can model
-
-- self-serve balance and arrears view
-- contact detail confirmation or update request
-- digital promise-to-pay capture
-- eligible payment-plan selection
-- rules-based routing to representatives
-- portal interaction history for representatives
-- automated follow-up reminders
-
-## Simple formulas
-
-- Annual hours saved = monthly case volume x minutes saved per case x 12 / 60
-- Annual cost saved = annual hours saved x hourly cost
-- Net benefit = annual total benefit - implementation cost
-- ROI % = net benefit / implementation cost
-- Payback months = implementation cost / monthly benefit
-
-## Benefit types to keep separate
-
-| Benefit type | What it means | Example |
-|---|---|---|
-| Hard savings | More directly reducible cost | reduced admin effort |
-| Revenue uplift | Improved collections performance | better promise capture or plan uptake |
-| Soft benefit | Useful but less cashable | better visibility, lower friction |
-
-## Scenario testing
-
-At minimum, create:
-- conservative case
-- optimistic case
+# ROI Modelling
 
 ## Final recommendation prompt
 
-Write 1-2 paragraphs explaining:
-- which opportunities best suit Phase 1
-- why they rank highly
-- which lower-ranked items you would defer
-- what the results imply for Week 2 scope
+The two opportunities which stand out are the automated follow-up reminders and portal interaction history for representatives. They are relatively low cost to implement and provide the best ROI. They would both become profitable after a year, making them financially lucrative and opening the door to further investment in improving the current processes at Legacy Trust Bank. By streamling the process for Collections Representatives and Debt Recovery Operations Teams, the employees will understand that the new automated process aren't there to replace them. These changes will make their working lives easier, freeing them up from mundane time consuming tasks to handle more complex cases that require human intuition. The increase in productivity will hopefully lead to an increase in resolved cases and monthly recovery value. 
+Additionally, by automating follow-up reminders, fewer deliquent cases will slip under the radar.
+
+The implementation of a self-service balance is projected to be a more expensive opportunity and will take longer to payback. Revenue uplift gained from self-service features don't justify their high costs. Furthermore, stakeholders have noted that customers are unaware of online services that currently exist. There is potential that the service would be redundant due to lack of awareness or complete resistance. It may be worth informing customers on current services and collecting feedback before taking any further steps with self-service.

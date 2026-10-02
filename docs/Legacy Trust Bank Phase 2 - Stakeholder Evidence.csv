@@ -1,0 +1,46 @@
+Stakeholder Group,Theme,Quote/Observation,Business Impact,Confidence Level
+Finance,Delayed/missed follow-up,We have cases sitting in 'awaiting callback' status for months because the promised date was never recorded.,Delinquent cases unresolved.,High
+Finance,Visibility,We have never measured how often a case comes back because we have no way to track it.,Time wasted chasing delinquent accounts.,High
+Finance,Visibility,"Status updates do not capture why a case changed state, only that it did.",No identification of causes for actions.,High
+Finance,Visibility,"The current system treats payment promises the same as payment confirmations, which creates confusion.",Delinquent cases unresolved.,High
+Finance,Resistance/distrust,"Some representatives have been doing this for so long they are faster than the system, and they will resist change.",Stubborn workforce will require convincing and sufficient training.,Low
+Finance,Duplicated work,Every status update in the old system requires manual re-keying into the spreadsheet,Time wasted updating/reviewing multiple records manually.,Medium
+Finance,Customer friction,Customers call back three times because they do not remember what they were told on the first call.,No customer thread of contact or agreements.,Medium
+Finance,Data reliability,"Reporting takes so long that by the time we see the numbers, they are already out of date.",Working with stale data impacts forecasting.,High
+Finance,Data reliability,The finance team cannot forecast recovery revenue because they do not trust the activity data.,Working with stale data impacts forecasting.,High
+Compliance,Delayed/missed follow-up,We could recover an extra 5% of balances if we just contacted people at the right time.,Revenue loss.,Medium
+Compliance,Visibility,A case marked 'resolved' in one system might be 'in progress' in another.,Time wasted updating/reviewing multiple records manually.,High
+Compliance,Visibility,We do not have a way to identify which cases are straightforward versus which require specialist handling.,Time wasted chasing delinquent accounts.,High
+Operations,Visibility,"The audit trail is scattered across email, spreadsheets, and the legacy database, making compliance reviews a nightmare.",Time wasted updating/reviewing multiple records manually.,High
+Operations,Resistance/distrust,Representatives are afraid to try new things because they were burned by the last system update.,Stubborn workforce will require convincing and sufficient training.,High
+Compliance,Customer friction,"The portal would be great, but what happens when someone disputes the balance?",Load shifted elsewhere without being properly handled.,Medium
+Compliance,Visibility,"The current system treats payment promises the same as payment confirmations, which creates confusion.",Time wasted updating/reviewing multiple records manually.,High
+Compliance,Resistance/distrust,The compliance team says they cannot approve anything until they see the future process mapped out.,,High
+Operations,Duplicated work,I spend more time reading notes from other representatives than I spend actually calling customers.,Time wasted updating/reviewing multiple records manually.,High
+Operations,Duplicated work,Representatives spend time proving what they did rather than doing more work.,Time wasted updating/reviewing multiple records manually.,High
+Operations,Duplicated work,I cannot tell which customers have already been contacted this month without manually checking three different sheets.,Time wasted updating/reviewing multiple records manually.,High
+Operations,Delayed/missed follow-up,Straightforward cases get delayed because they are queued behind complex ones with no priority logic.,Time wasted chasing delinquent accounts.,High
+Operations,Resistance/distrust,I cannot recommend automating anything until I see that it will not create new compliance risks.,,High
+Operations,Visibility,The first contact with a customer is often not optimised because we do not know their full history.,Time wasted updating/reviewing multiple records manually.,High
+Operations,Visibility,"We are treating urgent cases and routine cases the same way, which is why everything feels urgent.",Time wasted chasing delinquent accounts.,High
+Operations,Visibility,Cases involving vulnerable customers are not flagged differently from routine cases.,Time wasted chasing delinquent accounts.,High
+Operations,Visibility,Cases get stuck in 'pending callback' status indefinitely because the callback date is never enforced.,Delinquent cases unresolved.,High
+Operations,Visibility,"If a customer pays even a small amount, the whole case gets reclassified and we lose months of history.",Time wasted updating/reviewing multiple records manually.,High
+Operations,Resistance/distrust,Some teams will embrace it immediately and others will resist until forced.,Stubborn workforce will require convincing and sufficient training.,Medium
+Operations,Duplicated work,Customers get transferred between departments and have to repeat their entire situation each time.,No customer thread of contact or agreements.,Medium
+Collections & Customer Service,Duplicated work,"The collections database does not sync with the email tracker, so representatives often re-contact customers who were already promised callbacks.",Time wasted chasing delinquent accounts.,High
+Collections & Customer Service,Data reliability,No one can tell me how much the current workarounds are costing us because the cost is hidden.,Revenue loss.,High
+Collections & Customer Service,Duplicated work,We lose at least 20% of follow-ups because they fall between shifts and no one owns the handoff.,Revenue loss.,Medium
+Collections & Customer Service,Delayed/missed follow-up,We reach out to customers in a random order rather than any strategic sequence.,Time wasted chasing delinquent accounts.,High
+Collections & Customer Service,Data reliability,The data quality is so poor that we stopped running management reports altogether.,Working with stale data impacts forecasting.,High
+Collections & Customer Service,Visibility,The activity log does not distinguish between actual contact and failed contact attempts.,Time wasted chasing delinquent accounts.,High
+Collections & Customer Service,Visibility,There is no standard definition of what each status actually means across the team.,Inconsistent monitoring leads to repeated work.,High
+Collections & Customer Service,Resistance/distrust,"Representatives are afraid of the portal because they think it will take away their job, not because it won't work.",Stubborn workforce will require convincing and sufficient training.,Medium
+Collections & Customer Service,Visibility,We do not have a way to identify which cases are straightforward versus which require specialist handling.,Inconsistent monitoring leads to repeated work.,High
+Collections & Customer Service,Visibility,We have no visibility into why cases are failing; we only know that they do.,Inconsistent monitoring leads to repeated work.,High
+Collections & Customer Service,Resistance/distrust,We cannot automate the decision about whether a customer is genuinely in hardship or just dodging contact.,Potential for delinquent cases remaining unresolved.,High
+Product and Delivery,Visibility,A single customer can have five separate records in the system from different entry points.,Time wasted updating/reviewing multiple records manually.,High
+Product and Delivery,Visibility,"Different representatives use different status codes, which makes reporting meaningless.",Inconsistent monitoring leads to repeated work.,High
+Product and Delivery,Customer friction,"Some customers will never use a portal no matter how good it is, and we need to plan for that.","The portal may be an unnecessary cost, if it remains unused by the majority of customers.",Low
+Product and Delivery,Customer friction,Most customers do not even know they can pay online; they think they have to call.,Unutilised services.,Low
+Product and Delivery,Duplicated work,We reach out to customers in a random order rather than any strategic sequence.,Time wasted chasing delinquent accounts.,High
